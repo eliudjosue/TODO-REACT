@@ -11,7 +11,7 @@ Para instalar este proyecto en su máquina, siga los siguientes pasos:
 En la terminal, navegue hasta el directorio raíz del proyecto y ejecute npm install para instalar todas las dependencias.
 Ejecute el comando npm run dev para iniciar el servidor de desarrollo.
 Uso
-Una vez que el servidor de desarrollo se haya iniciado, abra su navegador web y vaya a http://localhost:3000. Ahora debería ver la página de inicio de la aplicación de TODO.
+Una vez que el servidor de desarrollo se haya iniciado, abra su navegador web y vaya a http://localhost:5173. Ahora debería ver la página de inicio de la aplicación de TODO.
 
 # Características
 Agregar tareas pendientes
